@@ -1,4 +1,5 @@
 if (www == 1)
 {
- f = h; 
+ f = h;
+ d = uu; // good
 }
